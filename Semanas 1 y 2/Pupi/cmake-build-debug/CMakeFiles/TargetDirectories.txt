@@ -1,0 +1,3 @@
+D:/PUCP/Algoritmia/2026-2/Ejercicios/Pupi/cmake-build-debug/CMakeFiles/Pupi.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/Pupi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/Pupi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

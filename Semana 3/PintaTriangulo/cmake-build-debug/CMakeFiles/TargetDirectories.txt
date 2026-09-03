@@ -1,0 +1,3 @@
+D:/PUCP/Algoritmia/2026-2/Ejercicios/PintaTriangulo/cmake-build-debug/CMakeFiles/PintaTriangulo.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/PintaTriangulo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/PintaTriangulo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

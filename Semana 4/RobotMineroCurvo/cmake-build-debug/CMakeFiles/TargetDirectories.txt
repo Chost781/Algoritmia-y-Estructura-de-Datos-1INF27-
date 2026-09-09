@@ -1,0 +1,3 @@
+C:/Datos/PUCP/Algoritmia/2026-2/RobotMineroCurvo/cmake-build-debug/CMakeFiles/RobotMineroCurvo.dir
+C:/Datos/PUCP/Algoritmia/2026-2/RobotMineroCurvo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Datos/PUCP/Algoritmia/2026-2/RobotMineroCurvo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

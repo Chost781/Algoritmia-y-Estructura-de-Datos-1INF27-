@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListaSimplementeEnlazada.dir\\main.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\ListaSimplementeEnlazada\\main.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/main.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/cmake-build-debug/CMakeFiles/ListaSimplementeEnlazada.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListaSimplementeEnlazada.dir\\BibliotecaLista\\funcionesLista.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\ListaSimplementeEnlazada\\BibliotecaLista\\funcionesLista.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/BibliotecaLista/funcionesLista.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/ListaSimplementeEnlazada/cmake-build-debug/CMakeFiles/ListaSimplementeEnlazada.dir/BibliotecaLista/funcionesLista.cpp.obj"
+}
+]

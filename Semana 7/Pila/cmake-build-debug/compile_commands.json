@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Pila.dir\\main.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\Pila\\main.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/main.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/cmake-build-debug/CMakeFiles/Pila.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Pila.dir\\BibliotecaPila\\funcionesPila.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\Pila\\BibliotecaPila\\funcionesPila.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/BibliotecaPila/funcionesPila.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/Pila/cmake-build-debug/CMakeFiles/Pila.dir/BibliotecaPila/funcionesPila.cpp.obj"
+}
+]

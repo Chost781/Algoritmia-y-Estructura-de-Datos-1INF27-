@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Cola.dir\\main.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\0585\\Cola\\main.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/main.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug/CMakeFiles/Cola.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Cola.dir\\BibliotecaCola\\funcionesCola.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\0585\\Cola\\BibliotecaCola\\funcionesCola.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/BibliotecaCola/funcionesCola.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug/CMakeFiles/Cola.dir/BibliotecaCola/funcionesCola.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Cola.dir\\funciones.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\TAD\\0585\\Cola\\funciones.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/funciones.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/TAD/0585/Cola/cmake-build-debug/CMakeFiles/Cola.dir/funciones.cpp.obj"
+}
+]

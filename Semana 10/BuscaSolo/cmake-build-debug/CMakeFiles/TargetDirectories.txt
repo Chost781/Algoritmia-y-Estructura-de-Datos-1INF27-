@@ -1,0 +1,3 @@
+D:/PUCP/Algoritmia/2026-2/Ejercicios/BuscaSolo/cmake-build-debug/CMakeFiles/BuscaSolo.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/BuscaSolo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/Algoritmia/2026-2/Ejercicios/BuscaSolo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

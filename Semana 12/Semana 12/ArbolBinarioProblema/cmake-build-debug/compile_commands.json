@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ArbolBinario.dir\\main.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\Arboles\\ArbolBinario\\main.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/main.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/cmake-build-debug/CMakeFiles/ArbolBinario.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ArbolBinario.dir\\BibliotecaArbolBinario\\funcionesArbolBinario.cpp.obj -c D:\\PUCP\\Algoritmia\\2026-2\\Ejercicios\\Arboles\\ArbolBinario\\BibliotecaArbolBinario\\funcionesArbolBinario.cpp",
+  "file": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/BibliotecaArbolBinario/funcionesArbolBinario.cpp",
+  "output": "D:/PUCP/Algoritmia/2026-2/Ejercicios/Arboles/ArbolBinario/cmake-build-debug/CMakeFiles/ArbolBinario.dir/BibliotecaArbolBinario/funcionesArbolBinario.cpp.obj"
+}
+]
